@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mariopolchert
-- 👀 I’m interested in programming, tech gadgets, good music, movies and running 
-- 🌱 I’m currently learning JS, NodeJS, React
-- 💞️ I’m looking to collaborate on something interesting
-- 📫 How to reach me => here, twitter, mail
+- 👀 I love programming, tech gadgets, good music, movies and running 
+- 🌱 I’m currently working with JS, WordPress, React, NodeJS, NextJS...
+- 💞️ I’m open to collaborating on something interesting
+- 📫 How to reach me => My website www.mariopolchert.com, twitter, or directly mailto:mario@mariopolchert.com
 
 <!---
 mariopolchert/mariopolchert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
